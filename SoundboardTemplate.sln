@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundboardTemplate.Android", "SoundboardTemplate.Android\SoundboardTemplate.Android.csproj", "{3B6D78C9-3DF1-41B4-A967-46B37399681F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SoundboardTemplate", "SoundboardTemplate\SoundboardTemplate.csproj", "{6C3D0C52-303E-43C2-BBC9-338803FEB103}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B6D78C9-3DF1-41B4-A967-46B37399681F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B6D78C9-3DF1-41B4-A967-46B37399681F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B6D78C9-3DF1-41B4-A967-46B37399681F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3B6D78C9-3DF1-41B4-A967-46B37399681F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B6D78C9-3DF1-41B4-A967-46B37399681F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B6D78C9-3DF1-41B4-A967-46B37399681F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6C3D0C52-303E-43C2-BBC9-338803FEB103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C3D0C52-303E-43C2-BBC9-338803FEB103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C3D0C52-303E-43C2-BBC9-338803FEB103}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6C3D0C52-303E-43C2-BBC9-338803FEB103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C3D0C52-303E-43C2-BBC9-338803FEB103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C3D0C52-303E-43C2-BBC9-338803FEB103}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78AA9404-E74E-463D-9F31-E60A2EFCD2E9}
+	EndGlobalSection
+EndGlobal

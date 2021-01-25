@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "u4zGB83z7k9k6eSa8EIDcbCUYJXoKMoK/WJxs+h65D3zxO2Vw/9+kW5OdwRNqNp4YDkAN85kyUnR//yLhOZx/Q==",
+  "success": true,
+  "projectFilePath": "C:\\Repos\\SoundboardTemplate\\SoundboardTemplate\\SoundboardTemplate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\accou\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\accou\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\accou\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\accou\\.nuget\\packages\\xamarin.essentials\\1.6.0\\xamarin.essentials.1.6.0.nupkg.sha512",
+    "C:\\Users\\accou\\.nuget\\packages\\xamarin.forms\\5.0.0.1905\\xamarin.forms.5.0.0.1905.nupkg.sha512"
+  ],
+  "logs": []
+}
