@@ -1,0 +1,13 @@
+C:\Repos\SoundboardTemplate\SoundboardTemplate\bin\Release\netstandard2.0\SoundboardTemplate.deps.json
+C:\Repos\SoundboardTemplate\SoundboardTemplate\bin\Release\netstandard2.0\SoundboardTemplate.dll
+C:\Repos\SoundboardTemplate\SoundboardTemplate\bin\Release\netstandard2.0\ref\SoundboardTemplate.dll
+C:\Repos\SoundboardTemplate\SoundboardTemplate\bin\Release\netstandard2.0\SoundboardTemplate.pdb
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Release\netstandard2.0\MainPage.xaml.g.cs
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Release\netstandard2.0\SoundboardTemplate.AssemblyInfoInputs.cache
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Release\netstandard2.0\SoundboardTemplate.AssemblyInfo.cs
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Release\netstandard2.0\SoundboardTemplate.csproj.CoreCompileInputs.cache
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Release\netstandard2.0\XamlC.stamp
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Release\netstandard2.0\SoundboardTemplate.dll
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Release\netstandard2.0\ref\SoundboardTemplate.dll
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Release\netstandard2.0\SoundboardTemplate.pdb

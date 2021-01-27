@@ -11,3 +11,4 @@ C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Debug\netstandard2.0\XamlC.st
 C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Debug\netstandard2.0\SoundboardTemplate.dll
 C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Debug\netstandard2.0\ref\SoundboardTemplate.dll
 C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Debug\netstandard2.0\SoundboardTemplate.pdb
+C:\Repos\SoundboardTemplate\SoundboardTemplate\obj\Debug\netstandard2.0\SoundboardTemplate.csprojAssemblyReference.cache
