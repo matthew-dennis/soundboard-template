@@ -40,198 +40,288 @@
                 </Grid.RowDefinitions>
 
                 <Button
+                    x:Name="Button1"
                     Grid.Row="0"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="1" />
                 <Button
+                    x:Name="Button2"
                     Grid.Row="0"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="2" />
                 <Button
+                    x:Name="Button3"
                     Grid.Row="0"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="3" />
 
                 <Button
+                    x:Name="Button4"
                     Grid.Row="1"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="4" />
                 <Button
+                    x:Name="Button5"
                     Grid.Row="1"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="5" />
                 <Button
+                    x:Name="Button6"
                     Grid.Row="1"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="6" />
 
                 <Button
+                    x:Name="Button7"
                     Grid.Row="2"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="7" />
                 <Button
+                    x:Name="Button8"
                     Grid.Row="2"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="8" />
                 <Button
+                    x:Name="Button9"
                     Grid.Row="2"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="9" />
 
                 <Button
+                    x:Name="Button10"
                     Grid.Row="3"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="10" />
                 <Button
+                    x:Name="Button11"
                     Grid.Row="3"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="11" />
                 <Button
+                    x:Name="Button12"
                     Grid.Row="3"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="12" />
 
                 <Button
+                    x:Name="Button13"
                     Grid.Row="4"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="13" />
                 <Button
+                    x:Name="Button14"
                     Grid.Row="4"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="14" />
                 <Button
+                    x:Name="Button15"
                     Grid.Row="4"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="15" />
 
                 <Button
+                    x:Name="Button16"
                     Grid.Row="5"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="16" />
                 <Button
+                    x:Name="Button17"
                     Grid.Row="5"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="17" />
                 <Button
+                    x:Name="Button18"
                     Grid.Row="5"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="18" />
 
                 <Button
+                    x:Name="Button19"
                     Grid.Row="6"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="19" />
                 <Button
+                    x:Name="Button20"
                     Grid.Row="6"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="20" />
                 <Button
+                    x:Name="Button21"
                     Grid.Row="6"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="21" />
 
                 <Button
+                    x:Name="Button22"
                     Grid.Row="7"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="22" />
                 <Button
+                    x:Name="Button23"
                     Grid.Row="7"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="23" />
                 <Button
+                    x:Name="Button24"
                     Grid.Row="7"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="24" />
 
                 <Button
+                    x:Name="Button25"
                     Grid.Row="8"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="25" />
                 <Button
+                    x:Name="Button26"
                     Grid.Row="8"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="26" />
                 <Button
+                    x:Name="Button27"
                     Grid.Row="8"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="27" />
 
                 <Button
+                    x:Name="Button28"
                     Grid.Row="9"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="28" />
                 <Button
+                    x:Name="Button29"
                     Grid.Row="9"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="29" />
                 <Button
+                    x:Name="Button30"
                     Grid.Row="9"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="30" />
 
                 <Button
+                    x:Name="Button31"
                     Grid.Row="10"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="31" />
                 <Button
+                    x:Name="Button32"
                     Grid.Row="10"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="32" />
                 <Button
+                    x:Name="Button33"
                     Grid.Row="10"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="33" />
 
                 <Button
+                    x:Name="Button34"
                     Grid.Row="11"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="34" />
                 <Button
+                    x:Name="Button35"
                     Grid.Row="11"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="35" />
                 <Button
+                    x:Name="Button36"
                     Grid.Row="11"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="36" />
 
                 <Button
+                    x:Name="Button37"
                     Grid.Row="12"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="37" />
                 <Button
+                    x:Name="Button38"
                     Grid.Row="12"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="38" />
                 <Button
+                    x:Name="Button39"
                     Grid.Row="12"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="39" />
 
                 <Button
+                    x:Name="Button40"
                     Grid.Row="13"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="40" />
                 <Button
+                    x:Name="Button41"
                     Grid.Row="13"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="41" />
                 <Button
+                    x:Name="Button42"
                     Grid.Row="13"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="42" />
 
                 <Button
+                    x:Name="Button43"
                     Grid.Row="14"
                     Grid.Column="0"
+                    Clicked="OnButtonClicked"
                     Text="43" />
                 <Button
+                    x:Name="Button44"
                     Grid.Row="14"
                     Grid.Column="1"
+                    Clicked="OnButtonClicked"
                     Text="44" />
                 <Button
+                    x:Name="Button45"
                     Grid.Row="14"
                     Grid.Column="2"
+                    Clicked="OnButtonClicked"
                     Text="45" />
 
             </Grid>
